@@ -16,11 +16,11 @@ on:
 env:
   MANIFEST: https://github.com/SHRP/manifest.git -b v3_10.0
   DEVICE: x683
-  DT_LINK: https://github.com/mastersenpai0405/recovery_device_infinix_X683.git
+  DT_LINK: https://github.com/sabbirhk/x683.git
   DT_PATH: device/infinix/x683
 
   TYPE: recoveryimage
-  OT: omni_
+  OT: omni_X683
   TZ: Europe/London
 
 jobs:
