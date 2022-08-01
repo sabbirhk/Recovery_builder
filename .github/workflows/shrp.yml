@@ -16,7 +16,7 @@ on:
 env:
   MANIFEST: https://github.com/SHRP/manifest.git -b v3_10.0
   DEVICE: x683
-  DT_LINK: https://github.com/sabbirhk/x683 -b shrp
+  DT_LINK: https://github.com/sabbirhk/x683.git -b shrp
   DT_PATH: device/infinix/x683
 
   TYPE: recoveryimage
