@@ -20,7 +20,7 @@ env:
   DT_PATH: device/infinix/X683
 
   TYPE: recoveryimage
-  OT: omni_X683
+  OT: omni_
   TZ: Europe/London
 
 jobs:
