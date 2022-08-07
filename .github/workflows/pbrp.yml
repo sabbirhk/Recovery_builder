@@ -15,8 +15,8 @@ on:
 
 env:
   MANIFEST: https://github.com/PitchBlackTWRP/manifest_pb.git -b android-10.0
-  DEVICE: X683
-  DT_LINK: https://github.com/Hostfl/recovery_device_infinix_X683.git -b pbrp
+  DEVICE: Infinix note 8i
+  DT_LINK: https://github.com/Hostfl/recovery_device_infinix_X683.git
   DT_PATH: device/infinix/X683
   TARGET: recoveryimage
   OT: omni_
