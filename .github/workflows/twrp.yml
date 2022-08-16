@@ -7,13 +7,13 @@ env:
   # (required) twrp manifest 
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git
   # (required) manifest branch 
-  BRANCH: twrp-9.0
+  BRANCH: twrp-10.0
   # (required) device codename i.e: sweet mojito.. 
-  DEVICE: j7xelte
+  DEVICE: X683
   # (required) device tree link with branch 
-  DT_LINK: https://github.com/TeamWin/android_device_samsung_j7xelte
+  DT_LINK: https://github.com/mastersenpai0405/recovery_device_infinix_X683.git
   # (required) who made your phone ? 
-  MANUFACTURER: samsung
+  MANUFACTURER: Infinix
   # (required) recovery partiton = recovery, else (no recovery partition): boot 
   TARGET: recovery
   # dont change that
